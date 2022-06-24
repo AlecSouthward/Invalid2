@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ca663d15287e5446ad281eeddab7029, type: 3}
+  m_Name: Commands
+  m_EditorClassIdentifier: 
+  commands:
+  - response: Hello!
+    inputs:
+    - hi
+    - Hi
+    - Hi!
+    - hi!
+    - hi.
+    - Hi.
+    - Hello
+    - hello
+    - Hello!
+    - hello!
+    - Hello.
+    - hello.
+    - Hey
+    - hey
+    - Hey!
+    - hey!
+    - Hey.
+    - hey.
+  - response: Bye, have a nice day!
+    inputs:
+    - bye
+    - bye!
+    - bye.
+    - Bye
+    - Bye!
+    - Bye.
+    - Goodbye
+    - Goodbye!
+    - Goodbye.
+    - goodbye
+    - goodbye!
+    - goodbye.
+    - cya
+    - cya!
+    - cya.
+    - Cya
+    - Cya!
+    - Cya.
+    - byebye
+    - byebye!
+    - byebye.
+    - bye-bye
+    - bye-bye!
+    - bye-bye.
+    - ByeBye
+    - ByeBye!
+    - ByeBye.
+    - Bye-Bye
+    - Bye-Bye!
+    - Bye-Bye.
+  - response: I'm good, thanks!
+    inputs:
+    - im good and you
+    - im good, and you
+    - im good, and you?
+    - Im good, and you?
+    - im good and you
+    - im good and you
+    - im good and you
+    - im good and you
+    - im good and you
+    - im good and you
+  - response: Quiet Cy-Fi by HardwiredGhost
+    inputs:
+    - im good and you
+    - im good, and you
+    - im good, and you?
+    - Im good, and you?
+    - im good and you
+    - im good and you
+    - im good and you
+    - im good and you
+    - im good and you
+    - im good and you
